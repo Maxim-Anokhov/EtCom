@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EtCom/static/css/main.078a5c6e.css",
+    "main.js": "/EtCom/static/js/main.ce81523f.js",
+    "static/media/3.jpg": "/EtCom/static/media/3.03872a5c1eb78265d7b2.jpg",
+    "static/media/2.jpg": "/EtCom/static/media/2.66fb43db0ba938c978b2.jpg",
+    "static/media/1.jpg": "/EtCom/static/media/1.80cb6e6e2624fa99060e.jpg",
+    "static/media/Logo_EtCom.png": "/EtCom/static/media/Logo_EtCom.085b8956e89e4d6889a2.png",
+    "index.html": "/EtCom/index.html",
+    "main.078a5c6e.css.map": "/EtCom/static/css/main.078a5c6e.css.map",
+    "main.ce81523f.js.map": "/EtCom/static/js/main.ce81523f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.078a5c6e.css",
+    "static/js/main.ce81523f.js"
+  ]
+}
