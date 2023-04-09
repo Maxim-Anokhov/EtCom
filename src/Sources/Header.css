@@ -1,0 +1,56 @@
+.Header{
+    grid-row: 1/2;
+    display: grid;
+    background-color: aliceblue ;
+    height: 110px;
+    /* width: 90%; */
+    margin: 0 auto;
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 1fr 1fr 1.5fr  1fr;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 70px;
+    grid-column: 1/2;
+    width: 100px;
+    height: 70px;
+}
+.header_description{
+    grid-column: 2/3;
+}
+.mail{
+grid-column: 3/4;
+display: grid;
+justify-items: center;
+}
+.envelop{
+    width: 40px;
+    height: 30px;
+
+}
+/* .phone{
+} */
+ .input_form{
+    margin: 20px;
+    width: 1fr;
+    height: 20px; 
+
+}
+.searching{
+    width: 1fr;
+    height: 20px;
+    display: grid;
+    grid-template-columns: 70%30%;
+}
+.button_form{
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background-color: aliceblue;
+}
+.glass{grid-column: 2/3;
+    /* margin-top: 20px; */
+    width: 20px;
+    height: 20px;
+}

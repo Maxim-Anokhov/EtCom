@@ -1,0 +1,22 @@
+.Catalog{
+    display: grid;
+    margin: 0 auto;
+width: 100%;
+height: 100%;
+background-color: rgb(129, 141, 141);
+
+
+}
+.catalog_menu{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+padding: 10px;
+}
+.blocks_menu{
+    width: 300px;
+    height: 200px;
+    background-color:aliceblue;
+    border-radius: 5px;
+}
