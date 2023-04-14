@@ -1,0 +1,19 @@
+.SolderedCoolers{
+    display: grid;
+    grid-template-rows: 1.5fr 1fr 10fr;
+}
+.SolderedCoolersWrap{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    background-color: grey;
+    align-items: center;
+    justify-items: center;
+}
+.cooler{
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
