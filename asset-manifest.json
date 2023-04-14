@@ -1,19 +1,31 @@
 {
   "files": {
-    "main.css": "/EtCom/static/css/main.9b290106.css",
-    "main.js": "/EtCom/static/js/main.69a2de92.js",
+    "main.css": "/EtCom/static/css/main.18e2e324.css",
+    "main.js": "/EtCom/static/js/main.7b7c8afc.js",
     "static/media/3.jpg": "/EtCom/static/media/3.03872a5c1eb78265d7b2.jpg",
     "static/media/2.jpg": "/EtCom/static/media/2.66fb43db0ba938c978b2.jpg",
     "static/media/EtCom.png": "/EtCom/static/media/EtCom.68ba7279fbde4776c104.png",
     "static/media/1.jpg": "/EtCom/static/media/1.80cb6e6e2624fa99060e.jpg",
+    "static/media/a_category.png": "/EtCom/static/media/a_category.d817eac182704eca0a95.png",
+    "static/media/k_category.png": "/EtCom/static/media/k_category.4ece06cf39da2ce877d4.png",
+    "static/media/z_category.png": "/EtCom/static/media/z_category.f22bfbbe815478599c3e.png",
+    "static/media/ef_category.png": "/EtCom/static/media/ef_category.6b8412de245f96d674b9.png",
     "static/media/Kaori.jpg": "/EtCom/static/media/Kaori.8f51e15e1d8fe1af3482.jpg",
+    "static/media/q_category.png": "/EtCom/static/media/q_category.64101e55daec13d60e70.png",
+    "static/media/r_category.png": "/EtCom/static/media/r_category.b89ce413ba22c95927a5.png",
+    "static/media/m_category.png": "/EtCom/static/media/m_category.c5a8b712b8526859eebd.png",
+    "static/media/c_category.png": "/EtCom/static/media/c_category.f9c0499a470585e24930.png",
+    "static/media/d_category.png": "/EtCom/static/media/d_category.09afc7c207112feae55a.png",
+    "static/media/i_category.png": "/EtCom/static/media/i_category.94a92c8ec79a617149e9.png",
     "static/media/Logo_EtCom.png": "/EtCom/static/media/Logo_EtCom.085b8956e89e4d6889a2.png",
+    "static/media/h_category.png": "/EtCom/static/media/h_category.4195f385ab0df3b1714a.png",
+    "static/media/ks_category.png": "/EtCom/static/media/ks_category.e716c3744d4b15c34d4f.png",
     "index.html": "/EtCom/index.html",
-    "main.9b290106.css.map": "/EtCom/static/css/main.9b290106.css.map",
-    "main.69a2de92.js.map": "/EtCom/static/js/main.69a2de92.js.map"
+    "main.18e2e324.css.map": "/EtCom/static/css/main.18e2e324.css.map",
+    "main.7b7c8afc.js.map": "/EtCom/static/js/main.7b7c8afc.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b290106.css",
-    "static/js/main.69a2de92.js"
+    "static/css/main.18e2e324.css",
+    "static/js/main.7b7c8afc.js"
   ]
 }
