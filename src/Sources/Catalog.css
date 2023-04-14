@@ -17,11 +17,28 @@ padding: 10px;
 .blocks_menu{
     width: 300px;
     height: 200px;
-    background-color:aliceblue;
     border-radius: 5px;
+   
+    
+    
 }
 .soldered_coolers{
     width: 300px;
-    height: 200px;
+    height: 300px;
     border-radius: 5px;
+    background-image: url(./Images/Kaori.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
+.collapsible_coolers{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    background-image: url(./Images/EtCom.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
