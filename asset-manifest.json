@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EtCom/static/css/main.18e2e324.css",
-    "main.js": "/EtCom/static/js/main.7b7c8afc.js",
+    "main.js": "/EtCom/static/js/main.0b768e16.js",
     "static/media/3.jpg": "/EtCom/static/media/3.03872a5c1eb78265d7b2.jpg",
     "static/media/2.jpg": "/EtCom/static/media/2.66fb43db0ba938c978b2.jpg",
     "static/media/EtCom.png": "/EtCom/static/media/EtCom.68ba7279fbde4776c104.png",
@@ -22,10 +22,10 @@
     "static/media/ks_category.png": "/EtCom/static/media/ks_category.e716c3744d4b15c34d4f.png",
     "index.html": "/EtCom/index.html",
     "main.18e2e324.css.map": "/EtCom/static/css/main.18e2e324.css.map",
-    "main.7b7c8afc.js.map": "/EtCom/static/js/main.7b7c8afc.js.map"
+    "main.0b768e16.js.map": "/EtCom/static/js/main.0b768e16.js.map"
   },
   "entrypoints": [
     "static/css/main.18e2e324.css",
-    "static/js/main.7b7c8afc.js"
+    "static/js/main.0b768e16.js"
   ]
 }
