@@ -12,7 +12,7 @@ return(
 <SiteBar></SiteBar>
 
 <div className="SolderedCoolersWrap">
-    <SolderedCoolersItems></SolderedCoolersItems>
+    <SolderedCoolersItems/>
 </div>
     </div>)
 

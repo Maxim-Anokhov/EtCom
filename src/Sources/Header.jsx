@@ -6,7 +6,7 @@ function Header(){
     return(
         <div className="Header">
             {/* <img className="logo" src="https://www.kaori.com.tw/ru/themes/CADCH_00023C/images/logo.svg" alt="" /> */}
-           <Link to="/MainPage">
+           <Link to="/EtCom">
 
            <img className="logo" src={logo} alt="" />
            </Link> 
