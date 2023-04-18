@@ -10,7 +10,7 @@ function Header(){
 
            <img className="logo" src={logo} alt="" />
            </Link> 
-            <p className="header_description">ПОДБОР, ПОСТАВКА И ОБСЛУЖИВАНИЕ ТЕПЛООБМЕННОГО ОБОРУДОВАНИЯ  В РОССИИ</p>
+            <p className="head_description">ПОДБОР, ПОСТАВКА И ОБСЛУЖИВАНИЕ ТЕПЛООБМЕННОГО ОБОРУДОВАНИЯ  В РОССИИ</p>
             <p className="mail" href="etkomsib@yandex.ru">email: etkomsib@yandex.ru 
             <img className="envelop" src="https://w7.pngwing.com/pngs/340/41/png-transparent-envelope-mail-icon-miscellaneous-angle-text.png"/>
             </p>

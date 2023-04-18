@@ -11,7 +11,7 @@ export const Catalog=()=>{
         <SiteBar/>
         <div className="catalog_menu">
 
-        <div className="blocks_menu collapsible_coolers">РАЗБОРНЫЕ ТЕПЛООБМЕННИКИ</div>
+        <Link to="/CollapsibleCoolers" className="blocks_menu collapsible_coolers">РАЗБОРНЫЕ ТЕПЛООБМЕННИКИ</Link>
         <Link to="/SolderedCoolers" className="blocks_menu  soldered_coolers">  ПАЯНЫЕ ТЕПЛООБМЕННИКИ </Link>
         </div>
         </div>

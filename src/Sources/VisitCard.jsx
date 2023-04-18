@@ -9,7 +9,7 @@ export const VisitCard = () => {
            
 <Header/>
 <SiteBar/>
-                <img className="logo_2" src={logo} />
+                <img alt="img" className="logo_2" src={logo} />
         
             <h2 className="">
                 ООО "ЭТКОМ"
