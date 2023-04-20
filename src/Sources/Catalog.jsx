@@ -1,14 +1,12 @@
 import React from "react";
-import Header from "./Header";
-import SiteBar from "./SiteBar";
+import { HeaderPlusBar } from "./HeaderPlusBar";
 import { Link } from "react-router-dom";
 
 import "./Catalog.css";
 export const Catalog=()=>{
     return(
         <div className="Catalog">
-        <Header/>
-        <SiteBar/>
+       <HeaderPlusBar></HeaderPlusBar>
         <div className="catalog_menu">
 
         <Link to="/CollapsibleCoolers" className="blocks_menu collapsible_coolers">РАЗБОРНЫЕ ТЕПЛООБМЕННИКИ</Link>

@@ -1,14 +1,12 @@
 import React from "react";
 import "./VisitCard.css";
-import Header from "./Header";
-import SiteBar from "./SiteBar";
+import { HeaderPlusBar } from "./HeaderPlusBar";
 import logo from './Images/Logo_EtCom.png'
 export const VisitCard = () => {
     return (
         <div className="VisitCard">
            
-<Header/>
-<SiteBar/>
+<HeaderPlusBar></HeaderPlusBar>
                 <img alt="img" className="logo_2" src={logo} />
         
             <h2 className="">

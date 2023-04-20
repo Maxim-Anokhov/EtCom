@@ -1,8 +1,8 @@
 import React from "react";
-import "./SiteBar.css";
+import "./SideBar.css";
 import {Link} from 'react-router-dom'
 // import "./VisitCard.css"
-function SiteBar(){
+function SideBar(){
     return(
         <div className="Site_bar">
             <Link to="/VisitCard" className="link">O КОМПАНИИ</Link>
@@ -14,4 +14,4 @@ function SiteBar(){
         </div>
     )
 }
-export default SiteBar
+export default SideBar

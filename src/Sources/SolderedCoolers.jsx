@@ -1,15 +1,13 @@
 import React from "react";
 import  "./SolderedCoolers.css"
-import Header from "./Header";
-import SiteBar from "./SiteBar";
+import { HeaderPlusBar } from "./HeaderPlusBar";
 import { SolderedCoolersItems } from "./SolderedCoolersItems";
 
 
 export const SolderedCoolers=()=>{
 return(
      <div className="SolderedCoolers " >
-<Header></Header>
-<SiteBar></SiteBar>
+<HeaderPlusBar></HeaderPlusBar>
 
 <div className="SolderedCoolersWrap">
     <SolderedCoolersItems/>

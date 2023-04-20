@@ -9,7 +9,9 @@ export const SolderedCoolersItems = () => {
             <div className="description">
                 <h2 className="description_series">{item.series}</h2>
                 <h3 className="header_description" >{item.header_description}</h3>
-                <p className="p_description">{item.description}</p>
+                <p className="p_description">{item.description} <br /><br />
+                <strong>{item.header_industries}</strong><br />
+                {item.industries}</p>
             </div>
         </Link>
 

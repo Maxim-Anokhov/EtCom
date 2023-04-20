@@ -1,14 +1,11 @@
 import React from "react";
-import Header from "./Header";
-import SiteBar from "./SiteBar";
-
+import { HeaderPlusBar } from "./HeaderPlusBar";
 import  "./MainPage.css";
 import Banner from "./Banner";
 function MainPage(){
     return(
         <div className="main_page">
-            <Header/>
-            <SiteBar/>
+           <HeaderPlusBar></HeaderPlusBar>
             <Banner/>
             <footer className="footer"></footer>
             
