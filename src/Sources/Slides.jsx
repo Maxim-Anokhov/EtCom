@@ -8,13 +8,14 @@ const slides=[
     src:src_1
 },
 
-    {id:'2',
-     image:`https://fotokonkurs.ru/cache/original/photos/2013/06/03/6/5f7082d7e8a6c4974dedeb126269ea87/cc219d3a0b33d8f64f1d7ce9e57abaee8cee6f90.jpg`,
-     src:src_2},
+//     {id:'2',
+//      image:`https://fotokonkurs.ru/cache/original/photos/2013/06/03/6/5f7082d7e8a6c4974dedeb126269ea87/cc219d3a0b33d8f64f1d7ce9e57abaee8cee6f90.jpg`,
+//      src:src_2},
      
-    {id:'3',
-    image:`http://nskmi.ru/upload/iblock/f66/iNXnzgtsqmE.jpg`,
-src:src_3}]
+//     {id:'3',
+//     image:`http://nskmi.ru/upload/iblock/f66/iNXnzgtsqmE.jpg`,
+// src:src_3}
+]
 
 
 
